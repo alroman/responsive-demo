@@ -8,7 +8,7 @@
 	var docWidth  = $(document).width();
 	
 	// iFrame attributes
-	iframe.src    = 'http://ccle.ucla.edu';
+	iframe.src    = 'https://preview.ccle.ucla.edu';
 	iframe.className = 'viewport';
 	iframe.height = docHeight;
 	iframe.width  = docWidth;
